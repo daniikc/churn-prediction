@@ -1,0 +1,6 @@
+# CREACIÓN DE REPO EN GITHUB
+
+1. git init--> es para inicializar esto, crea una carpeta en el local
+2. git add . --> añade todos los archivos presentes
+3. git commit -m "Estructura inicial del proyecto"
+4. git 
